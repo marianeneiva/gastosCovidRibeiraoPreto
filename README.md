@@ -8,5 +8,5 @@ As informações mais específicas sobre as verbas vieram como resposta ao Reque
 
 A partir dos dados levantados, os pesquisadores Ana Mioto, Giovane Thomazini, Mariane Neiva e Domingos Alves do Centro de Informação e Informática em Saúde - Faculdade de Medicina de Ribeirão Preto da USP (CIIS-FMRP/USP) e Instituto de Ciências Matemáticas e Computação (ICMC/USP)  elaboraram a apresentação gráfica a seguir, demonstrando a variação do volume de dinheiro empregado em cada uma das finalidades no decorrer do período mencionado anteriormente. Além disso, é possível visualizar o início e período que perdurou o financiamento de cada umas das ações executadas, sendo possível traçar um paralelo com a continuidade ou a intermitência das políticas públicas no município para o combate à pandemia.
 
-Os gráficos podem ser acessados via [https://www.google.com](https://ciis.fmrp.usp.br/covid19/gastos-publicos-ribeirao-preto/] 
+Os gráficos podem ser acessados via [https://ciis.fmrp.usp.br/covid19/gastos-publicos-ribeirao-preto/] 
 
